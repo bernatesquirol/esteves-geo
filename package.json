@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "deck.gl": "8.0.15",
+    "geotiff": "2.0.7",
+    "global": "4.3.2",
+    "nebula.gl": "0.20.2",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-map-gl": "4.1.2",
+    "react-scripts": "2.1.8",
+    "uuid": "3.3.2"
+  },
+  "keywords": [],
+  "name": "7v7dk7",
+  "description": null,
+  "version": "0.0.10",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
